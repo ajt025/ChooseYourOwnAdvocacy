@@ -22,6 +22,9 @@ I developed this in hopes of combatting these two concerns and also to increase 
 - Madlibbing of most verbs, adjectives, and nouns
 - Draggable sentences to rearrange template structure
 
+## Demo
+<img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## Current Limitations
 - Small set of synonyms to choose from
 - Occasional grammatical mistakes when swapping words
