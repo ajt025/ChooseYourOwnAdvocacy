@@ -32,5 +32,5 @@ I developed this in hopes of combatting these two concerns and also to increase 
 - Randomization of text signatures (e.g. double spacing, double dash instead of one dash, etc.)
 
 ---
-*Made with ReactJS and ExpressJS*
-*Used 'en-pos' for NLP and Merriam Webster for synoynyms*
+*Made with ReactJS and ExpressJS.*
+*Used 'en-pos' for NLP and Merriam Webster for synoynyms.*
