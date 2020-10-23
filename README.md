@@ -12,6 +12,7 @@ A tool meant to make **advocacy and petition emails/letters more dynamic** in th
 Typically, petition templates are provided by activist organizations as a quick way for an average Joe/Jane to reach out to some person in question (e.g. Congressional representatives, senators, etc.). This raises mainly two concerns:
 
 (1) Are emails being blocked by spam filters for being **too similar**?
+
 (2) Do emails have reduced efficacy due to the **dry and redundant** nature of template emails?
 
 I developed this in hopes of combatting these two concerns and also to increase engagement with activist causes (as opposed to just copypasting emails).
